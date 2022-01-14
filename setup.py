@@ -14,7 +14,7 @@ if sys.argv[-1] == "publish":
     sys.exit()
 
 setup(
-    name="sunburn",
+    name="template_pkg",
     version="0.1a",
     author="Leonardo dos Santos",
     author_email="ldsantos@stsci.edu",
